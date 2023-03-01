@@ -1,0 +1,78 @@
+.FirstHeader {
+background-color:#01112D ;
+color: white;
+border-radius: 18px;
+margin: 40px;
+padding: 20px;
+height: 174px;
+}
+ .right {
+    float: left;
+    text-align: center;
+    width: 50%;
+}
+.left {
+    float: right;
+    text-align: center;
+    width: 50%;
+} 
+.one {
+    font-size: 26px;
+    font-weight: 400;
+    margin-bottom: -17px;
+        margin-top: 4px;
+} 
+.two {
+    font-size: 15px;
+}
+.fi1 {
+    font-size: 41px;
+    padding-top: 24px;
+    margin-top: -17px;
+}
+.fi2 {
+    margin-left: 4px;
+    font-size: 50px;
+    margin-top: -32px;
+}
+.text {
+    width: 319px;
+    background-color: #B90EDF;
+    border-radius: 18px;
+    margin-top: 61px;
+    margin-left: -25px;
+    padding: 2px 7px;
+    height: 59px;
+    color: wheat;
+}
+h4 {
+    font-size: 20px;
+    float: left;
+    margin-top: -24px;
+    margin-left: 47px;
+}
+.ri {
+    width: 80%;
+    float: left;
+}
+.second {
+    width: 80%; 
+    margin: auto;
+}
+.logo {
+    float: right;
+    width: 50%;
+    margin-top: 23px;
+}
+.lgog ,svg {
+
+    margin-left: 41px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+
+}
+.hh {
+    float: left;
+    font-size: 40px;
+}
